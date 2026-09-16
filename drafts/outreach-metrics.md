@@ -2,4 +2,7 @@
 
 | Date | Touch | Company | Result |
 |------|-------|---------|--------|
-| 2026-09-15 | — | — | Hold T1 until Pages HTTP 200 |
+| 2026-09-15 | T1 | Hot Water Guys | sent to info@hotwaterguys.com |
+| 2026-09-15 | T1 | Affinity Hot Water | sent to affinityplumbing1@gmail.com |
+| 2026-09-15 | T1 | Elevated Water Solutions | sent to elevated.txwater@gmail.com |
+| 2026-09-15 | T1 | Texans Water Heaters | sent to service@texanswaterheaters.com |
